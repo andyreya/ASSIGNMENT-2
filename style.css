@@ -1,6 +1,6 @@
 #id-one {
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-  font-size: 160%; 
+  font-size: 160%;
   color: #29293a;
 }
 
@@ -16,7 +16,7 @@
   width: 40%;
   height: 50vh;
   border: 7px solid;
-  border-color: #1e1e2b; 
+  border-color: #1e1e2b;
 }
 
 #id-three {
@@ -41,4 +41,3 @@
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   color: #1e1e2b;
 }
-
