@@ -1,15 +1,15 @@
-#id-one  {
+#id-one {
   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   font-size: 160%; 
   color: #29293a
 }
 
-.class-one  {
+.class-one {
   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   color: #525174;
 }
 
-#id-two  {
+#id-two {
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -19,7 +19,7 @@
   border-color: #1e1e2b; 
 }
 
-#id-three  {
+#id-three {
   font-size: 150%;
   font-display: bold;
   text-align: center;
@@ -37,7 +37,7 @@
   width: 68%;
 }
 
-.class-two  {
+.class-two {
   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   color: #1e1e2b;
 }
